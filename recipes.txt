@@ -3,6 +3,7 @@ mutton
 fish
 fries
 prawn
+egg
 burger
 bbq
 
